@@ -1,0 +1,17 @@
+#One {
+  justify-content: space-evenly;
+}
+
+#One h1 {
+  margin-left: 5%;
+  font-size: 48px;
+  width: 60%;
+  text-align: justify;
+}
+
+#One img {
+  border-radius: 100%;
+  border: 2px solid white;
+}
+
+
