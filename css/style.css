@@ -14,4 +14,35 @@
   border: 2px solid white;
 }
 
+#Text-Tec {
+  margin-bottom: 5%;
+}
+
+.tecnlogia-info img{
+  width: 180px;
+  height: 170px;
+}
+
+.tecnologias {
+  justify-content: space-between;
+}
+
+.title-tec {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5%;
+}
+
+.tecnlogia-info p {
+  margin-top: 8%;
+}
+
+.title-tec h2 {
+  width: 30%;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  font-size: 32px;
+  color: whitesmoke;
+}
+
 
